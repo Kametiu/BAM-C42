@@ -18,9 +18,16 @@ a {
     justify-content: space-evenly;
     color:  rgb(27, 25, 25);
 }
+.bloque {
+
+    display: flex;
+
+
+}
 .musica{
     display:flex;
-    justify-content: center;
+    justify-content: flex-end;
+    margin-left: 40%;
 }
 .subtitulo { 
     font-size: 300%;
@@ -29,13 +36,16 @@ a {
 
 .articulo {
     display:flex;
-    em
-    align-content:space-between;
+    
+    align-content: space-between;
 }
 
 .texto {
+    font-weight: bolder;
     font-size: 200%;
     justify-content: flex-end;
+    
+    margin-left: 5%;
 }
 footer {
     height: 500%;
