@@ -1,0 +1,47 @@
+.fondo {
+    background-image: url(http://www.solofondos.com/wp-content/uploads/2016/02/fondos-grises-elegantes-hd.jpg);
+}
+.tituloo {
+    font-size: 600%;
+    display: flex;
+    justify-content: center;
+    
+}
+a {
+    
+    color: darkblue}
+.cabecera ul{
+    height: 500%;
+    background-color: rgb(27, 25, 25);
+    font-size: 200%;
+    display: flex;
+    justify-content: space-evenly;
+    color:  rgb(27, 25, 25);
+}
+.musica{
+    display:flex;
+    justify-content: center;
+}
+.subtitulo { 
+    font-size: 300%;
+    font-weight: 400%;
+}
+
+.articulo {
+    display:flex;
+    em
+    align-content:space-between;
+}
+
+.texto {
+    font-size: 200%;
+    justify-content: flex-end;
+}
+footer {
+    height: 500%;
+    background-color: rgb(27, 25, 25);
+    font-size: 200%;
+    display: flex;
+    justify-content: space-evenly;
+    color:  rgb(27, 25, 25);
+}
